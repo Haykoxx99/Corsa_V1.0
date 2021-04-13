@@ -1,0 +1,40 @@
+Help me;
+Intero Number1 = 5.1;
+Vero Number2 = 5.1;
+Vero Number3 = Number2 + 5 + 10;
+Verum var2 = 0;
+Verum var1 = hfjh;
+Corda str = fdhhgjdfh;
+Corda str2 = jfh;
+Intero Number4 = 4;
+
+Caso (4 > Number1);
+{
+Tampa (Number1 = );
+Tampa Number1;
+Tampa Riga;
+Ingresso Number1;
+Tampa Number1;
+Tampa Riga;
+Tampa Number2;
+Tampa Riga;
+Tampa str;
+Tampa Riga;
+Tampa var2;
+}
+Number1 = 4;
+Tampa Number1;
+Tampa Riga;
+Number1 += 2;
+Tampa Number1;
+Tampa Riga;
+Number1 -= 1;
+Tampa Number1;
+Tampa Riga;
+Number1 *= Number4;
+Tampa Number1;
+Tampa Riga;
+Number1 /= 2;
+Tampa Number1;
+Tampa Riga;
+Tampa str;
